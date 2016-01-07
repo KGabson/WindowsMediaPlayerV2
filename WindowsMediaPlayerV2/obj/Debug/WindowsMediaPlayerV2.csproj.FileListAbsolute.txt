@@ -1,0 +1,14 @@
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\bin\Debug\WindowsMediaPlayerV2.exe.config
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.csprojResolveAssemblyReference.cache
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\App.g.cs
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2_MarkupCompile.cache
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\MainWindow.g.cs
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2_MarkupCompile.lref
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\bin\Debug\WindowsMediaPlayerV2.exe
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\bin\Debug\WindowsMediaPlayerV2.pdb
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\MainWindow.baml
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.g.resources
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.Properties.Resources.resources
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.csproj.GenerateResource.Cache
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.exe
+c:\users\jerem\documents\visual studio 2015\Projects\WindowsMediaPlayerV2\WindowsMediaPlayerV2\obj\Debug\WindowsMediaPlayerV2.pdb
