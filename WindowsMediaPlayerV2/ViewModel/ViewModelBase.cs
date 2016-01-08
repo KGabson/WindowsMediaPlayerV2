@@ -14,10 +14,15 @@ namespace WindowsMediaPlayerV2.ViewModel
     {
         int i = 1;
         private MediaElement myMedia;
-        private Media MediaModel;
+        //  private Media MediaModel;
+        private ManagePlaylist myBib;
+        private XML myelements;
+
+        // passer toute la windows
         public ViewModelBase(MediaElement e)
         {
             myMedia = e;
+            myelements.Load("Biblio");
         }
         private ICommand _playCommand;
         private ICommand _pauseCommand;
@@ -78,6 +83,30 @@ namespace WindowsMediaPlayerV2.ViewModel
                 myMedia.Play();
             }
         }
+
+        public void addMediaBib()
+        {
+            Console.WriteLine("ADD BIB" + i);
+            i += 1;
+            OpenFileDialog openMedia = new OpenFileDialog();
+            openMedia.Title = "Open Media";
+            //openMedia.Filter = "mp4 files(*.mp4)|*.mp4";
+            openMedia.InitialDirectory = @"C:\";
+            openMedia.RestoreDirectory = true;
+            if (openMedia.ShowDialog() == true)
+            {
+                myMedia.Source = new Uri(openMedia.FileName);
+                myMedia.Position = TimeSpan.FromSeconds(1);
+                myMedia.Play();
+            }
+
+        }
+
+        public void loadPlaylist()
+        {
+
+        }
+
         public void pauseMedia()
         {
             Console.WriteLine("pause" + i);

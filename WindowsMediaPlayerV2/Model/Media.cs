@@ -22,16 +22,14 @@ namespace WindowsMediaPlayerV2.Model
                 if (System.IO.File.Exists(Path))
                 {
                     Name = System.IO.Path.GetFileName(value);
-                    //ModificationDate = System.IO.File.GetLastWriteTime(value);
                 }
                 else
                 {
                     Name = Path;
-                   // ModificationDate = new DateTime();
                 }
             }
         }
-        public enum MediaType { MUSIC = 1, VIDEO = 2, PICTURE = 4 };
+        public enum MediaType { MUSIC = 1, VIDEO = 2, PICTURE = 3 };
         public MediaType Type { get; set; }
     }
 }

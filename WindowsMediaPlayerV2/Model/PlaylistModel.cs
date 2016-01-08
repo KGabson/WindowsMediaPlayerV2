@@ -23,5 +23,10 @@ namespace WindowsMediaPlayerV2.Model
             Medias = new System.Collections.ObjectModel.ObservableCollection<Model.Media>();
             CurrentIndex = 0;
         }
+
+        public void addMedia(Media toAdd)
+        {
+            Medias.Add(toAdd);
+        }
     }
 }
